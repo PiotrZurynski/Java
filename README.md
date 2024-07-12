@@ -1,2 +1,2 @@
-# Java
-Java course
+# Java course
+Codecademy
